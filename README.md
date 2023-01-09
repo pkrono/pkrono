@@ -1,5 +1,8 @@
 Hi 👋 My name is Peter Rono
-===========================Backend Software Engineer|Engineering Manager---------------------------------------------An experienced, ambitious and result-driven Leader, Backend Software Engineer and a System Solution Architect with over 10+ years of professional experience in different environments, including Retail E commerce and Telco.* 🌍  I'm based in Nairobi* ✉️  You can contact me at [peter.rono87@gmail.com](mailto:peter.rono87@gmail.com)
+===========================
+Backend Software Engineer|Engineering Manager
+---------------------------------------------
+An experienced, ambitious and result-driven Leader, Backend Software Engineer and a System Solution Architect with over 10+ years of professional experience in different environments, including Retail E commerce and Telco.* 🌍  I'm based in Nairobi* ✉️  You can contact me at [peter.rono87@gmail.com](mailto:peter.rono87@gmail.com)
 
 ### Skills
 
