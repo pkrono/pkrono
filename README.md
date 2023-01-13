@@ -1,4 +1,4 @@
-Hi 👋 My name is Peter Rono
+Peter Rono
 ===========================
 Backend Software Engineer|Engineering Manager
 ---------------------------------------------
