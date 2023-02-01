@@ -1,6 +1,6 @@
 Peter Rono
 ===========================
-Engineering Manager | Backend Software Engineer | Software Solution Architect | Passionate Problem Solver
+Engineering Manager | Backend Engineer | Solution Architect | Passionate Problem Solver
 ---------------------------------------------
 An experienced, ambitious and result-driven Leader, Backend Software Engineer and a System Solution Architect with over 10+ years of professional experience in different environments, including Retail E commerce and Telco.
 * 🌍  I'm based in Nairobi
